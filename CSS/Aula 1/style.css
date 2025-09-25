@@ -1,0 +1,54 @@
+/* Seletores */
+
+/*
+ID - 0
+Classe - 0
+Elemento - 0
+*/
+
+/* .vermelho {
+    color: hsla(0, 100%, 50%, 0.95);
+}
+
+.verde {
+    color: rgb(0, 255, 0);
+}
+
+.azul {
+    color: rgba(0, 0, 255, 0.95);
+}
+
+.background {
+    background-color: #7f7f7f;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.primary {
+    background-color: #0D1B2A;
+    color: #fff;
+    border: 2px red solid;
+    padding-inline: 8px;
+}
+
+.secondary {
+    background-color: #778DA9;
+}
+
+.accent {
+    color: #1B263B;
+}
+
+/* Cores */
+
+/* 
+
+HEX
+RGB
+HSL
+
+*/
